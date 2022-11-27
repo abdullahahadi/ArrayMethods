@@ -1,2 +1,2 @@
-# working with user randomuser api
-- to practice Array methods like map, sort, filter and reduce
+# Using randomuser api
+- practicing Array methods like map, sort, filter and reduce
