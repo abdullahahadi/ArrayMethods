@@ -26,7 +26,6 @@ async function getRandomUser() {
     }
     
     addData(newUser)
-    
 }
 
 
